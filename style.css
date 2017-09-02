@@ -1,0 +1,51 @@
+#pokePictures{
+    width: 622px;
+    display: inline-block;
+    margin-top: 90px;
+}
+
+#pokeInfo{
+    border: 23px solid orangered;
+    display: inline-block;
+    vertical-align: top;
+    width: 230px;
+    height: 460px;
+    position: fixed;
+}
+
+h2{
+    text-align: center;
+    background-color: yellow;
+}
+
+.infoImg{
+    padding-left: 53px;
+    display: block;
+}
+
+h4{
+    margin: 15px;
+}
+
+h1{
+    position: fixed;
+    background-color: yellow;
+    width: 620px;
+    height: 67px;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-top: 23px;
+}
+
+#wholeBody{
+    width: 643px;
+}
+
+p{
+    margin: 100px 0px 0px 31px;
+    font-weight: bold;
+}
+
+body{
+    margin: 0px;
+}
